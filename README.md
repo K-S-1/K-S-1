@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Spring Boot, JWT Authentication, REST APIs, Angular, and Microservices architecture.**
 
-- 📫 How to reach me **t37sharmakrishnac@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/krishnasharma-114256223**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
